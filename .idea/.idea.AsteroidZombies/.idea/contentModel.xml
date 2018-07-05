@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Abdul\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_AsteroidZombies.1009834755.00" t="ExcludeRecursive" />
+    <e p="D:\Users\Abdul\Documents\Github\AsteroidZombies" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets\BulletDeleteScript.cs" t="Include" />
+      <e p="Assets\BulletFireScript.cs" t="Include" />
+      <e p="Assets\BulletScript.cs" t="Include" />
+      <e p="Assets\EnemyMovementScript.cs" t="Include" />
+      <e p="Assets\EnemyScript.cs" t="Include" />
+      <e p="Assets\MovementScript.cs" t="Include" />
+      <e p="Assets\PlayerHit.cs" t="Include" />
+      <e p="Assets\PurserMovementScript.cs" t="Include" />
+      <e p="Assets\ShooterSpritePack" t="Include">
+        <e p="ReadMe.txt" t="Include" />
+      </e>
+      <e p="AsteroidZombies.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
